@@ -1,9 +1,6 @@
 <?php
-/**
- * FINAL FIXED VERSION – No HTTPS, No CURL, No SSL needed.
- * Uses local open data CSV file.
- * Dataset: population.csv (from datahub.io)
- */
+
+ 
 
 $csvFile = "population.csv";
 
